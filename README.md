@@ -8,7 +8,6 @@
 <ul>
 <br>
 <br>
-
   <li>🔍 I’m experienced in QA work, reviewing app and device functionality.</li>
   
   <li>💻 Knowledgeable in computer maintenance and optimization.</li>
@@ -22,7 +21,19 @@
 </ul>
 
 <br>
-
-<!-- Línea de separación estilizada -->
 <hr style="border: 1px solid #0078D7; margin: 20px 0;" />
 
+<div style="text-align: center;">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="100" height="100" />
+  </a>
+  <a href="https://www.siemens.com/mx/es.html" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21.svg" alt="TIA Portal" width="100" height="100" />
+  </a>
+  <a href="https://www.labcenter.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="100" height="100" />
+  </a>
+</div>
