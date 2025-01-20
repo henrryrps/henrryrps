@@ -8,16 +8,25 @@
 <ul>
 <br>
 <br>
-  <li>🔍 I’m experienced in QA work, reviewing app and device functionality.</li>
-  
-  <li>💻 Knowledgeable in computer maintenance and optimization.</li>
-  <li>🐧 Currently learning to use the Linux operating system.</li>
-  <li>🏠 My work availability is hybrid and 100% virtual.</li>
-  <li>🚀 Looking forward to continuing working and learning!</li>
-  <li>🌐 Experienced in IoT technologies, focusing on innovation and connectivity.</li>
-  <li>🔧 Skilled in PLC programming and automation systems.</li>
-  <li>📧 Reach me at: <a href="mailto:henrypasa001@gmail.com" style="color: #0078D7;">henrypasa001@gmail.com</a></li>
-  <li>📄 Know about my experiences: <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank" style="color:rgb(0, 133, 241);"></a></li>
+ <ul>
+  <li style="font-size: 18px; color: #0078D7; font-weight: bold;">🛠️ <strong>Technical Skills:</strong></li>
+  <ul style="margin-left: 20px;">
+    <li>🔧 <span style="color: #555;">Programming Languages:</span> Python, Java, JavaScript, C/C++, Swift (currently learning).</li>
+    <li>🤖 <span style="color: #555;">Test Automation:</span> Selenium, Appium, Postman, JMeter.</li>
+    <li>📟 <span style="color: #555;">Hardware and Embedded Systems:</span> Arduino, Raspberry Pi, protocols (I2C, UART, SPI).</li>
+    <li>💾 <span style="color: #555;">Databases:</span> SQL, MongoDB.</li>
+    <li>🐧 <span style="color: #555;">Operating Systems:</span> Linux, Windows.</li>
+    <li>📋 <span style="color: #555;">Management Tools:</span> Jira, TestRail, Azure DevOps.</li>
+  </ul>
+
+  <li style="font-size: 18px; color: #28a745; font-weight: bold;">🌟 <strong>Areas of Interest:</strong></li>
+  <ul style="margin-left: 20px;">
+    <li>🔍 <span style="color: #555;">Software/hardware testing:</span> for embedded devices.</li>
+    <li>🌐 <span style="color: #555;">Validation:</span> of IoT systems and mobile applications.</li>
+    <li>🚀 <span style="color: #555;">Test automation:</span> in CI/CD environments.</li>
+  </ul>
+</ul>
+
 </ul>
 
 <br>
