@@ -32,17 +32,16 @@
 <br>
 <hr style="border: 1px solid #0078D7; margin: 20px 0;" />
 
-<div style="text-align: center;">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100" height="100" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="100" height="100" />
-  </a>
-  <a href="https://www.siemens.com/mx/es.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/siemens/siemens-ar21.svg" alt="TIA Portal" width="100" height="100" />
-  </a>
-  <a href="https://www.labcenter.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="100" height="100" />
-  </a>
-</div>
+
+<ul>
+  <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></li>
+  <li><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></li>
+  <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
+  <li><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></li>
+  <li><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></li>
+  <li><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"></li>
+  <li><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></li>
+  <li><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></li>
+  <li><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></li>
+  <li><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></li>
+</ul>
